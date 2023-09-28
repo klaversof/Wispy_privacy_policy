@@ -1,2 +1,2 @@
-# Wispy_privacy_policy
-Privacy Policy of Wispy 
+# BizyBee_privacy_policy
+Privacy Policy of BizyBee
